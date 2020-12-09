@@ -1,6 +1,6 @@
 ### U.S. weather history visualization
 
-The raw data and code behind the story [What 12 Months Of Record-Setting Temperatures Looks Like Across The U.S.](http://fivethirtyeight.com/features/what-12-months-of-record-setting-temperatures-looks-like-across-the-u-s/)
+The raw data and code behind the story to analyse how US weather is changing in 12 months.
 
 #### Code
 
